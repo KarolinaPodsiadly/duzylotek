@@ -1,0 +1,2 @@
+# duzylotek
+Losowanie dużego lotka
